@@ -5,12 +5,11 @@ http://51.15.42.135:8081/iqulive/suryamusic/playlist.m3u8
 http://mcdn-play-290.5centscdn.net/amsqmazhavil/mazhavillive.stream/playlist.m3u8
 #EXTINF:-1,Surya Movies
 http://51.15.42.135:8081/iqulive/kirantv/playlist.m3u8
-#EXTINF:-1,SKYSPORTS 4
-#EXTVLCOPT:http-user-agent=androidlivetv
-http://163.172.81.33:1234/live/freefootballtv/4GWf*pfCBHWsRgqhwd0Wv5Mx/257.ts
-#EXTINF:-1,SKYSPORTS 5
-#EXTVLCOPT:http-user-agent=androidlivetv
-http://163.172.81.33:1234/live/freefootballtv/4GWf*pfCBHWsRgqhwd0Wv5Mx/256.ts
+#EXTINF:-1,MHDTV Movies
+http://cdn.asianetmobiletv.com/mtalkies/zwfdbdyfcmmozygpwnom/playlist.m3u8
+#EXTINF:-1,Asianet Movies
+http://mcdn-play-290.5centscdn.net/amsqasianetmovies/fba00c54e72e8233356953a3f957a23d
+.stream/index.m3u8
 #EXTINF:-1,SKYSPORTS F1
 #EXTVLCOPT:http-user-agent=androidlivetv
 http://163.172.81.33:1234/live/freefootballtv/4GWf*pfCBHWsRgqhwd0Wv5Mx/664.ts
